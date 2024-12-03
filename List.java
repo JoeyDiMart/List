@@ -1,4 +1,4 @@
-package com.example.csc301.List;
+package List;
 /* ***************************************************
  * <Joseph DiMartino>
  * <9.3.2024>

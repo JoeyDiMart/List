@@ -1,15 +1,15 @@
+package List;
 /**
 Name: <Joseph DiMartino>
 Date: <10/3/2024>
 Program: <Program 1: Find it Fast!>
  **/
 
-import com.example.csc301.List.List;  // this is how I import the List class (it's in a package called List)
+import List.List;  // this is how I import the List class (it's in a package called List)
 import java.io.*; // for reading File
 import java.util.HashSet;  // bad symbol lookup
 import java.util.Scanner;  // take input
 import java.util.Set;
-
 
 public class FindItFast {
 

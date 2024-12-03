@@ -1,4 +1,4 @@
-package com.example.csc301.List;
+package List;
 /* *****************************************
  * YOU MAY NOT CHANGE THIS FILE IN ANY WAY!
  ***************************************** */
